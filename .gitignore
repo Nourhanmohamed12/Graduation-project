@@ -1,0 +1,19 @@
+# Node.js
+node_modules/
+.env
+
+# Firebase secrets
+*.json
+
+# Flutter / Dart
+.build/
+.dart_tool/
+.packages
+pubspec.lock
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
