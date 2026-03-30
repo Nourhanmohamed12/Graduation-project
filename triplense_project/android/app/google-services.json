@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "162508822733",
+    "project_id": "triplensproject",
+    "storage_bucket": "triplensproject.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:162508822733:android:74b70e9ce40b047350f184",
+        "android_client_info": {
+          "package_name": "com.example.triplense_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOb03BBZqTtBeGibvzzlWnuxnaYvppWQM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
