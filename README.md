@@ -63,6 +63,7 @@ Instant place discovery
 Location, description, ratings, maps
 
 System Architecture
+
 Flutter Mobile App
     ↓ HTTP Requests
 Node.js REST API (Express)
@@ -72,6 +73,8 @@ MySQL Database (Places/Users)
 Firebase (Authentication + Images)
     ↑ TensorFlow CV Processing
 Database Schema
+
+
   -- Main Places Table
 CREATE TABLE places (
     id INT PRIMARY KEY AUTO_INCREMENT,
@@ -86,4 +89,67 @@ CREATE TABLE places (
     rating DECIMAL(3,2) DEFAULT 0.00
 );
 🎥 Live Demo
+<img width="135" height="28" alt="image" src="https://github.com/user-attachments/assets/4339b8b8-f6c2-44db-8b04-b5576a01c234" />
 
+http://drive.google.com/file/d/1LlLcHk0bCRQxL1OPqWUj2jqHRk1t63z3/view
+
+ Quick Start
+ # 1. Clone the repository
+git clone https://github.com/Nourhanmohamed12/Graduation-project.git
+cd Graduation-project
+
+# 2. Backend Setup
+cd backend
+npm install
+cp .env.example .env
+# Edit .env with your DB credentials
+npm start
+
+# 3. Frontend Setup (New Terminal)
+cd frontend
+flutter pub get
+flutter run
+
+Environment Variables 
+DB_HOST=localhost
+DB_USER=root
+DB_PASSWORD=your_password
+DB_NAME=tourism
+PORT=5000
+
+
+Performance Metrics
+Metric
+
+Value
+
+CV Accuracy
+
+92%
+
+API Response
+
+< 200ms
+
+Image Upload
+
+< 3s
+
+Recommendation
+
+Personalized
+
+Database
+
+1k+ Places
+
+👩‍💻 Author
+<div align="center"> <a href="https://linkedin.com/in/nour-mohammed-614753278"> <img src="https://img.shields.io/badge/Nourhan%20Mohammed-1E40AF?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <img src="https://img.shields.io/badge/B.Sc.%20Data%20Science-3B82F6?style=for-the-badge&logo=university&logoColor=white" /> </div>
+🌟 Future Enhancements
+🤖 ML Recommendations (Collaborative Filtering)
+⚡ Real-time Tracking (Geolocation)
+🧠 Advanced CV (Multi-landmark detection)
+☁️ Cloud Deployment (AWS/Docker)
+📱 AR Features (Augmented Reality)
+❤️ Acknowledgments
+<div align="center"> <img src="https://img.shields.io/badge/🎓-Graduation%20Project-60A5FA?style=for-the-badge&logo=graduation-cap&logoColor=white" /> <br> <sub>Built with ❤️ for academic excellence | Data Science & Mobile Development</sub> </div> <div align="center"> <img src="https://img.shields.io/github/stars/Nourhanmohamed12/Graduation-project?style=social" /> <img src="https://img.shields.io/badge/License-MIT-1E40AF?style=for-the-badge&logo=legal&logoColor=white" /> </div> ```
