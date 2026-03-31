@@ -132,31 +132,31 @@ screenshots/
 
 SPLASH SCREEN
 
-├── <img width="250" height="525" alt="image" src="https://github.com/user-attachments/assets/00bad6d0-f753-480d-9db8-d559fad604dd" />
+ <img width="250" height="525" alt="image" src="https://github.com/user-attachments/assets/00bad6d0-f753-480d-9db8-d559fad604dd" />
 " 
 
 Authentication Screens
 
-├── <img width="592" height="481" alt="image" src="https://github.com/user-attachments/assets/0345c685-d871-45fa-bcf9-1be54897c526" />
+ <img width="592" height="481" alt="image" src="https://github.com/user-attachments/assets/0345c685-d871-45fa-bcf9-1be54897c526" />
  
  
 Home Screen 
 
-└── <img width="234" height="535" alt="image" src="https://github.com/user-attachments/assets/96f8f1cf-efb4-481b-9895-5d5666ca5970" />
+ <img width="234" height="535" alt="image" src="https://github.com/user-attachments/assets/96f8f1cf-efb4-481b-9895-5d5666ca5970" />
  
  
- Navigation Drawer 
+Navigation Drawer 
 
-└── <img width="227" height="487" alt="image" src="https://github.com/user-attachments/assets/5cfbe429-d07a-4bd5-a931-ba6916aa7bc3" />
+ <img width="227" height="487" alt="image" src="https://github.com/user-attachments/assets/5cfbe429-d07a-4bd5-a931-ba6916aa7bc3" />
  
 
- Category Screen
+Category Screen
  
- └── <img width="244" height="538" alt="image" src="https://github.com/user-attachments/assets/58191498-75fb-4844-838e-8a6b5e8175df" />
+  <img width="244" height="538" alt="image" src="https://github.com/user-attachments/assets/58191498-75fb-4844-838e-8a6b5e8175df" />
 
- Place Screen
+Place Screen
  
- └── <img width="241" height="536" alt="image" src="https://github.com/user-attachments/assets/f82a1e4b-64cc-4178-8fa1-cfde8fa885c0" />
+  <img width="241" height="536" alt="image" src="https://github.com/user-attachments/assets/f82a1e4b-64cc-4178-8fa1-cfde8fa885c0" />
 
  Quick Start
 
